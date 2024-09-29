@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CODES",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CODES::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CODES-Debug-74665179bcb4ebce06c3.json",
+					"name" : "CODES",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejemplos01.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejemplos01.exec-Debug-436c36b2e8d899d1e05b.json",
+					"name" : "Ejemplos01.exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejemplos02.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejemplos02.exec-Debug-e1cc006519c022f824ce.json",
+					"name" : "Ejemplos02.exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEMPORAL.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEMPORAL.exec-Debug-3750082e8202fa428760.json",
+					"name" : "TEMPORAL.exec",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/CLionProjects/CODES/cmake-build-debug",
+		"source" : "C:/Users/User/CLionProjects/CODES"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,6 @@
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/CODES.dir
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/Ejemplos01.exec.dir
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/Ejemplos02.exec.dir
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/TEMPORAL.exec.dir
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/CODES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
